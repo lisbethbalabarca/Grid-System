@@ -1,0 +1,83 @@
+header{
+	padding: 3%;
+}
+header ul{
+	padding-top: 2%; 
+}
+.logo a{
+	font-size: 3em;
+	padding: 6%;
+}
+.navbar{
+	height: 67px;
+    padding-top: 2%;
+}
+.buscar{
+	margin-top: 1.5%;
+	border-right: solid 2px #434343;
+}
+.buscar a{
+	padding: 4%;
+}
+.uno{
+	float: left;
+	margin-right: 30%;
+}
+.dos a{
+	text-decoration: underline;
+}
+.linea{
+	display: inline-block;
+}
+.linea2{
+	display: inline;
+}
+.cuadro{
+	border-bottom: solid 1px #989898;
+}
+.cuadrito{
+	background-color: #AAAAAA;
+	height: 200px;
+	display: table;
+	width: 100%;
+}
+.right{
+	float: right;
+	margin-right: 4%;
+}
+.foto{
+	vertical-align: middle;
+	display: table-cell;
+}
+#primera{
+	border-bottom: solid gray 5px;
+}
+.video{	
+	height: 140px;
+}
+.play{
+	height: 40px;
+	margin-top: 100px;
+}
+.agenda{
+	padding: 2%;
+	display: table;
+}
+.ta{
+	font-size: 12px;
+}
+.xs{
+	font-size: 8px;
+}
+.imagen{
+	width: 70px;
+	height: 70px;
+	vertical-align: middle;
+	display: table-cell;
+}
+video{
+	background-color: #fff;
+}
+footer{
+	padding: 3%;
+}
